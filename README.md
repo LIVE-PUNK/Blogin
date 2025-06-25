@@ -135,8 +135,6 @@ npm start
 
 * 🧠 Admin Dashboard
 * 🔍 Search & Filters
-* 🌓 Dark Mode
-* 🖼️ Image Uploads
 * 🗂️ Blog Categories/Tags
 * ❤️ Likes & Bookmarks
 * 🔗 Shareable Links
