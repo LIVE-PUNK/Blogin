@@ -28,12 +28,7 @@ Admins post, users scroll — where content meets control, and vibes stay immacu
 ![Login Page](frontend/public/01-login-page.png)
 *Secure login with clean UI.*
 
-### 2. Signup Page
-
-![Signup Page](frontend/public/02-signup-page.png)
-*New users can sign up in seconds — pick your vibe and go.*
-
-### 3. Home Page 
+### 2. Home Page 
 
 ![Home Page](frontend/public/03-home-page-01.png)
 *Welcome to Blogin — scrollable, readable, unforgettable.*
@@ -41,27 +36,27 @@ Admins post, users scroll — where content meets control, and vibes stay immacu
 ![Blogs Display](frontend/public/04-home-page-02-display-blogs.png)
 *Explore published blogs from the admin — just click and read.*
 
-### 5. Single Blog Page
+### 3. Single Blog Page
 
 ![Single Blog](frontend/public/05-Single-blog-page.png)
 *Focused, clean reading experience for every post.*
 
-### 6. About Page (Intro Section)
+### 4. About Page (Intro Section)
 
 ![About Page 1](frontend/public/06-about-page-01.png)
 *Learn what Blogin is all about.*
 
-### 7. About Page (Team/Vibes)
+### 5. About Page (Team/Vibes)
 
 ![About Page 2](frontend/public/07-about-page-02.png)
 *Blogin’s backstory and the crew behind the chaos.*
 
-### 8. Admin Special Key Page
+### 6. Admin Special Key Page
 
 ![Admin Key](frontend/public/09-admin-upload-blog.png)
 *Admins enter a secret key to unlock content controls.*
 
-### 9. Admin Upload Blog Page
+### 7. Admin Upload Blog Page
 
 ![Upload Blog](frontend/public/08-admin-special-key.png)
 *Rich-text blog creation for admins — post like a pro.*
@@ -125,6 +120,13 @@ npm run dev
 
 ```bash
 npm start
+```
+
+**For admin feautres:**
+
+```bash
+/uploadblog
+eg- localhost:5173/uploadblog
 ```
 
 ---
